@@ -1,9 +1,20 @@
+* Class
+  - Wikilink
+    - "Explore Wikipedia based on your interests"
+    - Uses a seed word you give to explore random but related topics
+      on Wikipedia
+    - Technologies used: Python
+
 * Facebook Hackathon
   - Snake
+    - "Play the classic snake game in your browser"
+    - Like the classic game!
     - Technologies used: HTML5, Javascript
 
 * HackNY
   - Food Roulette
+    - "Order food based on your location, budget, and the type of food
+      you enjoy"
     - Chooses your next meal based on the type of food you enjoy, your
       budget, and the restaurants that deliver in your area.
     - Technologies used: PHP, Python
@@ -11,6 +22,8 @@
 
 * Facebook Hackathon at Princeton
   - Niblist
+    - "Keep track of likes, dislikes, favorites, and future gift items
+      of the people you love"
     - Helps you keep track of the likes, dislikes, favorites, and
       future gift items of the people you love.
     - Technologies used: Ruby on Rails, jQuery
