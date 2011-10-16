@@ -1,0 +1,16 @@
+* Facebook Hackathon
+  - Snake
+    - Technologies used: HTML5, Javascript
+
+* HackNY
+  - Food Roulette
+    - Chooses your next meal based on the type of food you enjoy, your
+      budget, and the restaurants that deliver in your area.
+    - Technologies used: PHP, Python
+    - APIs used: DOTGO, ordr.in
+
+* Facebook Hackathon at Princeton
+  - Niblist
+    - Helps you keep track of the likes, dislikes, favorites, and
+      future gift items of the people you love.
+    - Technologies used: Ruby on Rails, jQuery
