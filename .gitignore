@@ -1,5 +1,9 @@
-resume.dvi
-resume.log
-resume.pdf
+*.dvi
+*.log
+*.pdf
+*.aux
+*.fdb_latexmk
+*.synctex.gz
 applications/
 cover_letters/
+transcript.pdf
